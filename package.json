@@ -1,0 +1,25 @@
+{
+  "name": "fe_from_be",
+  "version": "1.0.0",
+  "description": "Building FE libs and strapping a RPC FE functions to run from the backend",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Andrew Lowndes",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.15.5",
+    "@mui/material": "^5.15.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
